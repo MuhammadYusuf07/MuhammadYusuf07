@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yusuf</h1>
 <h3 align="center">Mahasiswa Informatika Semester 6 Sekolah Tinggi Teknik Pati</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadyusuf07" alt="muhammadyusuf07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad yusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad yusuf" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/muhammad yusuf](https://www.linkedin.com/in/muhammad-yusuf07)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Yusuf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
