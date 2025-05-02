@@ -14,3 +14,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyusuf07&show_icons=true&locale=en" alt="muhammadyusuf07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyusuf07&" alt="muhammadyusuf07" /></p>
+
+<p align="left">Play Games With Me</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/MuhammadYusuf07/MuhammadYusuf07/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadYusuf07/MuhammadYusuf07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadYusuf07/MuhammadYusuf07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadYusuf07/MuhammadYusuf07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
