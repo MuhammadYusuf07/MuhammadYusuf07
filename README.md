@@ -25,3 +25,9 @@
 </picture>
 
 ###
+
+###
+
+<img src="https://raw.githubusercontent.com/MuhammadYusuf07/MuhammadYusuf07/output/snake.svg" alt="Snake animation" />
+
+###
