@@ -109,15 +109,19 @@
 ### 📊 GitHub Analytics & Overview
 
 <div align="center">
+
+  <!-- Overview Quick Badges -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYusuf07&theme=tokyonight&no-frame=true&no-background=true&margin-w=4" alt="Muhammad Yusuf's Trophies" />
+    <img src="https://img.shields.io/badge/Total_Contributions-278+-20C997?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+    <img src="https://img.shields.io/badge/Public_Repositories-5-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+    <img src="https://img.shields.io/badge/Followers-2-FF2D20?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </p>
+
+  <!-- Working Streak Stats Card -->
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=MuhammadYusuf07&theme=tokyonight" alt="Muhammad Yusuf's Streak" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYusuf07&theme=tokyo-night" alt="Activity Graph" />
-  </p>
+
 </div>
 
 ---
