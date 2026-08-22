@@ -24,7 +24,6 @@
 💡 "Turning ideas into clean code, interactive mobile apps, and intelligent systems."
 ```
 
-- 🎓 **Education:** S1 Teknik Informatika (Sekolah Tinggi Teknik Pati)
 - 💼 **Role:** Software Developer
 - 🚀 **Focus Areas:** Web Development (Laravel, React, Vue), Mobile Development (Flutter, React Native), IoT & Robotics (Arduino)
 - 🔭 **Current Goal:** Building scalable full-stack applications & high-performance mobile solutions.
