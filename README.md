@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Dynamic Header Banner / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Muhammad+Yusuf;Informatics+Engineering+Student;Full-Stack+%26+Mobile+Developer;IoT+%26+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Muhammad+Yusuf;Software+Developer;Full-Stack+%26+Mobile+Developer;IoT+%26+Robotics+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
-    <b>Mahasiswa Teknik Informatika | Passionate Software Developer & Tech Enthusiast</b>
+    <b>Software Developer | Full-Stack & Mobile App Engineer</b>
   </p>
 
   <!-- Quick Badges -->
@@ -24,9 +24,10 @@
 💡 "Turning ideas into clean code, interactive mobile apps, and intelligent systems."
 ```
 
-- 🎓 **Education:** Mahasiswa Informatika Sekolah Tinggi Teknik Pati (Semester 6)
+- 🎓 **Education:** S1 Teknik Informatika (Sekolah Tinggi Teknik Pati)
+- 💼 **Role:** Software Developer
 - 🚀 **Focus Areas:** Web Development (Laravel, React, Vue), Mobile Development (Flutter, React Native), IoT & Robotics (Arduino)
-- 🔭 **Current Goal:** Expanding full-stack engineering capabilities and building real-world impactful applications.
+- 🔭 **Current Goal:** Building scalable full-stack applications & high-performance mobile solutions.
 - ⚡ **Fun Fact:** Loves combining UI/UX aesthetics with robust backend architectures & computer vision.
 
 ---
@@ -84,7 +85,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
-      <p>Proyek UAS MPA Semester 5 - Sistem autentikasi pengguna yang aman dengan manajemen sesi, penanganan enkripsi password, serta antarmuka yang responsif.</p>
+      <p>Proyek UAS MPA - Sistem autentikasi pengguna yang aman dengan manajemen sesi, penanganan enkripsi password, serta antarmuka yang responsif.</p>
       <p align="center">
         <a href="https://github.com/MuhammadYusuf07/-Login-Register-dan-Logout"><b>View Repository »</b></a>
       </p>
@@ -108,18 +109,13 @@
 ### 📊 GitHub Analytics & Overview
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadYusuf07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MuhammadYusuf07's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYusuf07&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadYusuf07&theme=tokyonight" alt="MuhammadYusuf07's Streak" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYusuf07&show_icons=true&theme=tokyonight" alt="Muhammad Yusuf's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYusuf07&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=MuhammadYusuf07&theme=tokyonight" alt="Muhammad Yusuf's Streak" />
+  </p>
 </div>
 
 ---
