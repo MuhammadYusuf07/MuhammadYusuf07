@@ -110,8 +110,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYusuf07&show_icons=true&theme=tokyonight" alt="Muhammad Yusuf's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadYusuf07&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYusuf07&theme=tokyonight&no-frame=true&no-background=true&margin-w=4" alt="Muhammad Yusuf's Trophies" />
   </p>
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=MuhammadYusuf07&theme=tokyonight" alt="Muhammad Yusuf's Streak" />
